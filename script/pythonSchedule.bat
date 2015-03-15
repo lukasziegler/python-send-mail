@@ -1,0 +1,1 @@
+pythonw "C:\Users\pervasive\Dropbox\Lukas Ziegler\pdemail\readLog.py" %*
